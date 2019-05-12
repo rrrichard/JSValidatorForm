@@ -1,0 +1,7 @@
+form .form-group .invalid {
+    border: 1px solid red;
+}
+
+#validate {
+    position: relative;
+}
